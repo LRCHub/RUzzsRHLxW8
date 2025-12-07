@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "APPLE",
+  "base_artist": "TOWA TEI",
+  "createdAt": "2025-12-07T05:28:59.433323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/01_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Apple Cobbler",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/02_Apple_Cobbler_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Apple Pie Bed",
+      "artist": "Lawrence Arabia",
+      "has_synced": false,
+      "path": "select/03_Apple_Pie_Bed_Lawrence_Arabia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Apple Country",
+      "artist": "Mindless Self Indulgence",
+      "has_synced": true,
+      "path": "select/04_Apple_Country_Mindless_Self_Indulgence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Apple Trees",
+      "artist": "Ozma",
+      "has_synced": true,
+      "path": "select/05_Apple_Trees_Ozma.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Apple (feat. Young Thug)",
+      "artist": "Strick feat. Young Thug",
+      "has_synced": false,
+      "path": "select/06_Big_Apple_(feat._Young_Thug)_Strick_feat._Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Big Apple (feat. Young Thug)",
+      "artist": "Strick",
+      "has_synced": false,
+      "path": "select/07_Big_Apple_(feat._Young_Thug)_Strick.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Am Stretched on Your Grave - Apple Brightness Mix",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/08_I_Am_Stretched_on_Your_Grave_-_Apple_Brightness_Mix_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Second Bite of the Apple",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/09_Second_Bite_of_the_Apple_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Second Bite Of The Apple",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/10_Second_Bite_Of_The_Apple_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apple",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/11_Apple_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ants Crawling on an Apple Stork",
+      "artist": "King Hannah",
+      "has_synced": true,
+      "path": "select/12_Ants_Crawling_on_an_Apple_Stork_King_Hannah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Apple Scruffs (2020 Mix)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/13_Apple_Scruffs_(2020_Mix)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "An Apple A Day",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/14_An_Apple_A_Day_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Apple Kisses",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/15_Apple_Kisses_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Big Apple",
+      "artist": "Kajagoogoo",
+      "has_synced": true,
+      "path": "select/16_Big_Apple_Kajagoogoo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "APPLE",
+      "artist": "TOWA TEI with Ringo Sheena",
+      "has_synced": false,
+      "path": "select/pl_01_APPLE_TOWA_TEI_with_Ringo_Sheena.txt"
+    }
+  ]
+}
